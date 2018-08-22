@@ -1,2 +1,2 @@
-# viva_la_vida
-core project
+## viva_la_vida
+Core Project
